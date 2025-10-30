@@ -6,7 +6,7 @@ Tests for ALIVE-DATA-PIPELINE
 import unittest
 from main import *
 
-class TestDatapipeline(unittest.TestCase):
+class TestAiconsciousness(unittest.TestCase):
     def setUp(self):
         """Set up test fixtures"""
         pass
